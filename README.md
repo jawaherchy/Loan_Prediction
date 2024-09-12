@@ -1,4 +1,4 @@
-# Loan_Prediction
+# Loan_Prediction Video : https://drive.google.com/file/d/1vo1pDqunFFa7u2brp039LjiJoHk4q5Hy/view?usp=drive_link
 This project has a presence across all urban, semi-urban, and rural areas. Customer-first applies for a bank loan after that bank validates the customer eligibility for a loan.  Banks can automate the loan eligibility process (real-time) based on customer detail provided while filling an online application form. These details are-  term,int_rate,home_ownership,annual_inc,purpose,addr_state,delinq_2yrs,revol_util,loan_amnt,total_acc and others. To automate this process, they have given a problem to identify the customer segments, That are eligible for loan amounts so that they can specifically target these customers.
 This is a standard supervised classification task. A classification problem where we have to predict whether a loan would be approved or not. Below is the dataset attributes with a description.
  
